@@ -1,0 +1,34 @@
+# Visual Studio related files
+.vs/
+*.suo
+*.user
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+
+# Nuget packages
+packages/
+*.nupkg
+# .nuget/
+
+# Temp files
+temp/
+*.tmp
+
+# Other common generated files .NET
+*.aps
+*.bsc
+*.map
+*.netmodule
+*.opensdf
+*.sdf
+*.bak
+*.pye
+*.pyo
+*.rc*

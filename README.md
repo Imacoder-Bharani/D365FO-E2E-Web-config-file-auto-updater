@@ -9,3 +9,5 @@ do a restart of IIS. All these thing will are so exhaustive.
 
 As a developer I faced these issues and felt to provide a better solution and here it is. The console application which can hanlde all
 the file movement, web config file updation and doing iis restart within a single application.
+
+For a developer to make use of this, he should have two folders in C drive temp folder one being Running and Other Original where the standard web config file exists and from running folder the file will be updated and moved to actual standard location

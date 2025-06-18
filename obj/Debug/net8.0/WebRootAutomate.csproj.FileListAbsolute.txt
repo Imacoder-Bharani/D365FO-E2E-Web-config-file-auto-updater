@@ -1,0 +1,14 @@
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\bin\Debug\net8.0\WebRootAutomate.exe
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\bin\Debug\net8.0\WebRootAutomate.deps.json
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\bin\Debug\net8.0\WebRootAutomate.runtimeconfig.json
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\bin\Debug\net8.0\WebRootAutomate.dll
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\bin\Debug\net8.0\WebRootAutomate.pdb
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\WebRootAutomate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\WebRootAutomate.AssemblyInfoInputs.cache
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\WebRootAutomate.AssemblyInfo.cs
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\WebRootAutomate.csproj.CoreCompileInputs.cache
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\WebRootAutomate.dll
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\refint\WebRootAutomate.dll
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\WebRootAutomate.pdb
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\WebRootAutomate.genruntimeconfig.cache
+C:\Users\Admin8d82a99d00\Documents\Visual Studio 2022\Own\WebRootAutomate\WebRootAutomate\obj\Debug\net8.0\ref\WebRootAutomate.dll

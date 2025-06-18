@@ -9,7 +9,7 @@ class ModifyWebConfigWithoutUpdatingManually
     System.ConsoleColor feedBackForUserColor = ConsoleColor.Green;
     private string originalPath = @"C:\Temp\Original\web.config";
     private string runningPath = @"C:\Temp\Running\web.config";
-    private string destPath = @"K:\AosService\WebRoot\webRoot.config";
+    private string destPath = @"K:\AosService\WebRoot\web.config";
 
     /// <summary>
     ///     This method asks the user to provide the login credentials to connect with sandbox and then passes 
@@ -139,7 +139,7 @@ class ModifyWebConfigWithoutUpdatingManually
         string infoMsg = "moved from Original to Web Root Folder";
         string sourceOriginal;
         string sourceRunning;
-        string dest = @"K:\AosService\WebRoot\webRoot.config";
+        string dest = @"K:\AosService\WebRoot\web.config";
         if (!isPathProvided)
         {
             sourceOriginal = originalPath;
